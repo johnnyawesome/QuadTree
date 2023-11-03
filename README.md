@@ -1,2 +1,5 @@
 # QuadTree
-An interactive Quad-Tree, written in P5JS
+
+An interactive [Quad-Tree](https://en.wikipedia.org/wiki/Quadtree), written in P5JS.
+
+![]()
